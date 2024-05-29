@@ -1,2 +1,6 @@
 # deps
 node_modules/
+
+# Terraform関連
+.terraform**
+terraform.tfstate**
